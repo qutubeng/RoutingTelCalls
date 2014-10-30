@@ -1,0 +1,7 @@
+4673212345 : operator B($1.0) is cheaper than operator A($1.1)
+68123456789 : no operator is found
+46832760254 : operator A($0.15) is cheaper than operator B($0.2)
+46730679548 : operator A($0.9) is cheaper than operator B($1.0)
+26860162542 : only operator A($5.1) is found, operator B is missing
+17650254889 : operator A($0.9) is cheaper than operator B($0.92)
+34567890123 : only operator B($1.5) is found, operator A is missing
