@@ -15,7 +15,6 @@ public class MainRoutingPhoneCalls {
 	 * @throws FileNotFoundException
 	 */
 	public ArrayList<String> getOperatorInfo(String fileName) throws FileNotFoundException {
-		//changeshgbjgjgjgjgjg
 		ArrayList<String> operatorList = new ArrayList<String>();
 		PrepareOperatorData prepareOperatorData = new PrepareOperatorData();
 		operatorList = prepareOperatorData.getDataFromTextFile(fileName);
