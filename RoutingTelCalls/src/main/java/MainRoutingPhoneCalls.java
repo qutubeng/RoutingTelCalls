@@ -189,6 +189,4 @@ public class MainRoutingPhoneCalls {
 	private static void log(Object aObject){
 		System.out.println(String.valueOf(aObject));
 	}
-	
-	//changes
 }
