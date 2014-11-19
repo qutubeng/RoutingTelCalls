@@ -105,6 +105,7 @@ public class PrepareOperatorData {
 	/**
 	 * @param aObject
 	 */
+	//printing
 	private static void log(Object aObject){
 		System.out.println(String.valueOf(aObject));
 	}
